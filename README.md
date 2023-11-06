@@ -44,7 +44,7 @@ If you operate an outdated Bare server, we encourage you to update. If you're us
 If you're too lazy to do either of the above, you can install an outdated and unsupported version of Ultraviolet.
 
 ```sh
-npm install @titaniumnetwork-dev/ultraviolet@1
+npm install @playtimeco12/Ultraviolet@1
 ```
 
 ## Changelog
